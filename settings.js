@@ -81,7 +81,7 @@ global.thumnnaiIs = fs.readFileSync("./AnyaPikaMedia/theme/Menu/Menuimg2.jpeg")
 
 //--------------- Systemjc Function --------------\\
 global.autoTyping = false 
-global.autoreadpmngc = false 
+global.autoreadpmngc = true 
 global.autoReadGc = false 
 global.autoRecord = false 
 global.available = true
